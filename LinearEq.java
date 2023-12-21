@@ -11,6 +11,6 @@ public class LinearEq {
     double b = Double.parseDouble(args[1]);
     double c = Double.parseDouble(args[2]);
     double x = ((c-b) / a); 
-System.out.println("the Equation is: " + a + " x + " + b + " = " + c + " x is: " + x ); 
+System.out.println( a + " x + " + b + " = " + c + " x is: " + x ); 
 }
 }
